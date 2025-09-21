@@ -6,7 +6,7 @@
 
 Meet **Minecraft DDOS Tool V2**—your go-to Minecraft server stresser! 
 
-- 🌊 Packed with **3 UDP, 3 TCP, and 2 HTTP** methods to test Minecraft servers.
+- 🌊 Packed with **3 UDP, 3 TCP, and 2 HTTP** methods to test Minecraft servers.e
 - 💪 Built for professionals to **push Minecraft servers to the limit**.
 - ⚠️ **Warning:** For **educational and legal testing only**! Target your own servers or get permission. **Illegal use is strictly prohibited!** 🚨
 
